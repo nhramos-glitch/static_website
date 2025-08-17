@@ -1,4 +1,4 @@
-# Cyber Secure Technologies Corporation - Website Redesign
+# Cyber Secure Technologies Corporation - Website 
 
 ## Overview
 This project contains a completely redesigned and modernized website for Cyber Secure Technologies Corporation (CSTC), a leading cybersecurity solutions integrator in the Philippines. The website has been transformed from an outdated design to a modern, professional, and user-friendly interface while preserving all original content and functionality.
@@ -137,7 +137,7 @@ Edit the CSS variables in `css/modern-style.css`:
 ## 📞 Contact Information
 
 **Cyber Secure Technologies Corporation**
-- **Email**: Sales_inquiry@cstc.com.ph
+- **Email**: sales_inquiry@cstc.com.ph
 - **Phone**: +63 991 432 4122
 - **Address**: Matumbo Pusok Lapu Lapu City, Philippines
 
@@ -148,4 +148,4 @@ This website design is proprietary to Cyber Secure Technologies Corporation.
 ---
 
 **Last Updated**: January 2025
-**Version**: 2.0 (Modern Redesign)
+**Version**: 2.0 
